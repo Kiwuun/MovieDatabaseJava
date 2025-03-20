@@ -1,0 +1,53 @@
+Forest Gump\1994\Tom Hanks\Robin Wright\Robert Zemeckis\142
+The Shawshank Redemption\1994\Tim Robbins\Morgan Freeman\Frank Darabont\142
+The Perks of Being a Wallflower\2012\Logan Lerman\Emma Watson\Stephen Chbosky\103
+The Dark Night\2008\Christian Bale\Heath Ledger\Christopher Nolan\153
+Changeling\2008\Angelina Jolie\Colm Feore\Clint Eastwood\141
+This Boy's Life\1993\Robert De Niro\Leonardo DiCaprio\Michael Caton-Jones\115
+It's a Wonderful Life\1946\James Stewart\Donna Reed\Frank Capra\130
+The Silence of the Lambs\1991\Jodie Foster\Anthony Hopkins\Jonathan Demme\118
+8 Mile\2002\Eminem\Brittany Murphy\Curtis Hanson\110
+The Breakfast Club\1985\Emilio Estevez\Judd Nelson\John Hughes\97
+Django Unchained\2012\Jamie Foxx\Christoph Waltz\Quentin Tarantino\165
+Silver Linings Playbook\2012\Bradley Cooper\Jennifer Lawrence\David O. Russel\122
+The Shining\1980\Jack Nicholson\Shelley Duval\Stanlet Kubrick\146
+Se7en\1995\Morgan Freeman\Brad Pitt\David Fincher\127
+American Beauty\1999\Kevin Spacey\Annette Bening\Sam Mendes\122
+Pulp Fiction\1994\John Travolta\Uma Thurman\Quentin Tarantino\154
+Argo\2012\Ben Affleck\Bryan Cranston\Ben Affleck\120
+The Hurt Locker\2008\Jeremy Renner\Anthony Mackie\Kathryn Bigelow\131
+The Godfather\1972\Marlon Brando\Al Pacino\Francis Ford Coppola\175
+The Town\2010\Ben Affleck\Rebecca Hall\Ben Affleck\125
+The Departed\2006\Leonardo DiCaprio\Matt Damon\Martin Scorsese\151
+Scream\1996\Neve Campbell\Courtney Cox\Wes Craven\111
+Up in the Air\2009\George Clooney\Vera Farmiga\Jason Reitman\109
+What's Eating Gilvert Grape\1993\Johnny Depp\Leonardo DiCaprio\Lasse Hallström\118
+Lost in Translation\2003\Bill Murray\Scarlett Johansson\Sofia Coppola\101
+The Conjuring\2013\Patrick Wilson\Vera Farmiga\James Wan\112
+Juno\2007\Elliot Page\Michael Cera\Jason Reitman\96
+Stand By Me\1986\Wil Wheaton\River Phoenix\Rob Reiner\89
+The Green Mile\1999\Tom Hanks\Michael Clarke Duncan\Frank Darabont\249
+Super 8\2011\Elle Fanning\AJ Michalka\J. J. Abrams\112
+Jarhead\2005\Jake Gyllenhaal\Jamie Foxx\Sam Mendes\125
+Misery\1990\James Caan\Kathy Bates\Rob Reiner\107
+Fight Club\1999\Brad Pitt\Edward Norton\David Fincher\139
+Shutter Island\2010\Leonardo DiCaprio\Emily Mortimer\Martin Scorsese\138
+Lawless\2012\Tom Hardy\Shia LaBeouf\John Hillcoat\116
+Winter's Bone\2010\Jennifer Lawrence\John Hawkes\Debra Granik\100
+Taxi Driver\1976\Robert De Niro\Jodie Foster\Martin Scorsese\114
+Saving Private Ryan\1998\Tom Hanks\Matt Damon\Steven Spielnerg\169
+Black Swan\2010\Natalie Portman\Mila Kunis\Darren Aronofsky\108
+Inception\2010\Leonardo DiCaprio\Joseph Gordon-Levitt\Christopher Nolan\148
+Boogie Nights\1997\Mark Wahlberg\Julianne Moore\Paul Thomas Anderson\153
+50/50\2011\Joseph Gordon-Levitt\Seth Rogen\Jonathan Levine\100
+Brothers\2009\Jake Gyllenhaal\Natalie Portman\Jim Sheridan\105
+Blood Diamond\2006\Leonardo DiCaprio\Djimon Hounsou\Edward Zwick\143
+A Few Good Men\1992\Tom Cruise\Jack Nicholson\Rob Reiner\138
+Gladiator\2000\Russel Crowe\Joaquin Phoenix\Ridley Scott\155
+Law Abiding Citizen\2009\Gerard Butler\Jamie Foxx\F. Gary Gary\109
+M*A*S*H\1970\Donald Sutherland\Elliot Gould\Robert Altman\116
+The Room\2003\Tommy Wiseau\Juliette Danielle\Tommy Wiseau\99
+The Dark Crystal\1981\Jim Henson\Kathryn Mullen\Jim Henson\93
+The Irishman\2019\Robert De Niro\Al Pacino\Martin Scorsese\209
+New movie\1999\null\null\null\0
+jeff\2002\me\you\i\12
